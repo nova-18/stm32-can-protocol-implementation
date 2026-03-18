@@ -1,0 +1,27 @@
+# Keil MDK build artifacts
+*.uvguix.*
+*.uvoptx
+*.uvgui
+*.bak
+*.dep
+*.d
+*.o
+*.axf
+*.map
+*.htm
+*.lnp
+*.sct
+*.lst
+
+# Build output folders
+Objects/
+Listings/
+DebugConfig/
+RTE/_Target_1/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
